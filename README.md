@@ -9,7 +9,7 @@ The dataset is sourced from Kaggle: [Kaggle link](https://www.kaggle.com/dataset
 
 It contains 937 inputs, storing sales, stock, and price data for a specific product from 2014 to 2016 on a daily basis. A sample of the data is shown below.
 
-![Figure 1](images/tail.png)
+<img src="images/tail.png" alt="Figure 1" width="400">
 
 ## Data Splitting
 
@@ -24,5 +24,6 @@ Autogluon's "best quality" preset with 5 validation windows was utilized to enha
 The prediction results are depicted below. The mean squared error is around 116, indicating an average error variation of 116 points, both upwards and downwards.
 
 ![Figure 2](images/output.png)
+```'RMSE': -116.12843310336113```
 
 This project demonstrates the application of Autogluon for effective sales forecasting, highlighting the impact of model configuration and data splitting on prediction accuracy. 
