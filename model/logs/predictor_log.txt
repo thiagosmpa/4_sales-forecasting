@@ -107,3 +107,9 @@ data with frequency 'None' has been resampled to frequency 'D'.
 Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
 data with frequency 'None' has been resampled to frequency 'D'.
 Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+Loading predictor from path model
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+data with frequency 'None' has been resampled to frequency 'D'.
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
